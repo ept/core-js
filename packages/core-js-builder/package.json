@@ -9,13 +9,12 @@
   },
   "main": "index.js",
   "dependencies": {
-    "core-js": "3.11.3",
-    "core-js-compat": "3.11.3",
-    "mkdirp": ">=0.5.5 <1",
-    "webpack": ">=4.46.0 <5"
+    "@core-js/compat": "3.11.3",
+    "core-js": "3.11.13",
+    "webpack": "^5.35.1"
   },
   "engines": {
-    "node": ">=8.9.0"
+    "node": ">=12.13.0"
   },
   "funding": {
     "type": "opencollective",
